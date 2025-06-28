@@ -62,5 +62,18 @@ Throughout the path, I will cover:
 ├── screenshots/             # Evidence of work and visuals
 └── reports/                 # Incident reports, playbooks, summaries
 
+---
+
+## ✅ Why This Matters
+The HTB SOC Analyst path provides an immersive and practical environment for developing and validating blue team skills. This documentation showcases my growth, approach, and ability to tackle real-world security operations challenges — skills I aim to bring into my current and future roles.
+
+## 🔐 Let's Connect
+If you're interested in blue teaming, SOC work, or cybersecurity operations in general, feel free to connect or collaborate!
+
+📫 LinkedIn
+📧 cbelche4.it@gmail.com
+
+
+
 
 
